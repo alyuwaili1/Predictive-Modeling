@@ -1,0 +1,50 @@
+---
+title: "Course Reflection Summary"
+author: "Abdulmohaimen Al Yuwaili"
+date: "2024-11-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 1
+
+1. **Data Science Process**: Learned about the various stages involved in a data science project, from understanding the business problem to evaluating and deploying the model.
+2. **Loading Data in R**: Explored different ways to load data into R, including CSV, Excel, and using APIs.
+
+# Week 2
+
+1. **Exploratory Data Analysis (EDA)**: Learned the importance of exploring data using summary statistics and visualizations to gain initial insights.
+2. **Data Management**: Understood how to handle missing values and perform data transformations to prepare for modeling.
+
+# Week 3
+
+1. **Linear Regression Assumptions**: Studied the assumptions behind linear regression models, such as linearity, homoscedasticity, and independence.
+2. **Building Linear Regression Models**: Practiced building linear regression models and making predictions using R.
+
+# Week 4
+
+1. **Logistic Regression**: Learned about logistic regression for binary classification problems, including how to interpret model coefficients.
+2. **Performance Measures**: Understood key performance measures like precision, recall, and accuracy for classification models.
+
+# Week 5
+
+1. **Generalized Linear Models (GLM)**: Learned about GLMs, including Poisson and Gamma regression, which extend linear models to non-normal distributions.
+2. **Use Cases for GLMs**: Discussed different business scenarios where GLMs are useful, such as predicting counts or rates.
+
+# Week 6
+
+1. **Decision Trees**: Learned how to build decision trees for classification and regression, and understood the concept of tree pruning.
+2. **Random Forest and GBM**: Studied ensemble methods like Random Forest and Gradient Boosting Machine (GBM) to improve model performance.
+
+# Week 7
+
+1. **Cluster Analysis**: Learned about clustering techniques, including k-means, to segment data into similar groups.
+2. **Principal Component Analysis (PCA)**: Studied PCA as a dimensionality reduction technique to simplify complex datasets.
+
+# Week 8
+
+1. **Documentation and Deployment**: Learned the importance of documenting code and results clearly, and the basics of deploying models to production.
+2. **Communication**: Focused on how to effectively communicate modeling results to different audiences, including technical and non-technical stakeholders.
